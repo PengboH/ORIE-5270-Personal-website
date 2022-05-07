@@ -1,0 +1,21 @@
+baseURL: ""
+languageCode: en-us
+title: Pengbo Hao - Personal Website
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: 'Hello Stranger!'
+    Content: Welcome to my website! Here you can explore some cool information about me.
+  socialIcons:
+    - name: facebook
+      url: 'http://facebook.com/'
+    - name: twitter
+      url: 'http://twitter.com/'
+    - name: github
+      url: 'http://github.com/'
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true 
+  ShowShareButtons: true
+  ShowPostNavLinks: true     
